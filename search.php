@@ -16,7 +16,7 @@ $serverName = "DB-VM1"; // あなたのSQLサーバー名に合わせてね
 $connectionOptions = [
     "Database" => "EmployeeDB",
     "TrustServerCertificate" => true,
-    "CharacterSet" => "UTF-8" // ← これを追加！
+    "CharacterSet" => "UTF-8" // 
 ];
 
 
